@@ -24,13 +24,19 @@ Sources of financial information
 
 ##Tools & Techniques Used :
 
+
 Microsoft Excel
+
 Pivot Tables
+
 Data Cleaning and Data Summarization
+
 Data Visualization
+
 Charts and Graphs
 
 ##Project Tasks :
+
 Task 1: Gender Distribution Analysis
 Analyzed the demographic distribution of participants based on gender. Visualization techniques were used to understand the representation of male and female investors.
 
@@ -54,4 +60,5 @@ Observed common sources of financial information used by investors.
 Studied how investment duration relates to expected returns and investment goals.
 
 ##Conclusion :
+
 This project demonstrates practical application of Excel for financial data analysis. Through pivot tables and data visualizations, the project highlights patterns in investment behavior and helps in understanding participants' financial planning strategies.
